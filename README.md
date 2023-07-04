@@ -1,2 +1,2 @@
-My first readme
-As An ALX Student
+My first readme as an ALX Student 
+I'm learning about how to navigate shell
